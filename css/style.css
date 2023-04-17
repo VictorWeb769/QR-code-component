@@ -56,21 +56,14 @@ p {
 @media screen and (max-width: 768px) {
     .box {
         width: 350px;
-        height: 600px;
-    }
-}
-
-@media screen and (max-width: 375px) {
-    .box {
-        width: 300px;
-        height: 550px;
+        height: 580px;
     }
 }
 
 @media screen and (max-width: 375px) {
     .box {
         width: 280px;
-        height: 535px;
+        height: 480px;
     }
     h1 {
         font-size: 20px;
@@ -83,7 +76,7 @@ p {
 @media screen and (max-width: 280px) {
     .box {
         width: 250px;
-        height: 450px;
+        height: 435px;
     }
     h1 {
         font-size: 18px;
